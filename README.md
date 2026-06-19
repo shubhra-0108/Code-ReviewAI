@@ -173,7 +173,7 @@ MIT License
 
 ## ❤️ Author
 
-Arpit Pandey
+Shubhra Pandey
 
 ---
 
